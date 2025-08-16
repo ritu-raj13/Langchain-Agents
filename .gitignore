@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Dependencies File
+poetry.lock
+pyproject.toml
+
 # C extensions
 *.so
 
